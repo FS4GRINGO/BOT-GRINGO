@@ -1,10 +1,10 @@
-const group = (prefix, ownerBot, botName) => {
+const group = (prefix, Gringo, GRINGO-BOT) => {
         return `
-「 *${botName}* 」
+「 *${GRINGO-BOT}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerBot}
+  ❏ Creator: ${GRINGO}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
