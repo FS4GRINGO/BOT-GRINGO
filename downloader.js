@@ -1,10 +1,11 @@
-const downloader = (prefix, botName, ownerName) => {
+const downloader = (prefix, GRINGO-BOT, Gringo) => {
 	return `
-「 *BOT_NAME* 」
+「 *GRINGO-BOT* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: OWNER_NAME
+  ❏ Creator: GRINGO
+
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
