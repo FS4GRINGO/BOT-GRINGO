@@ -1,10 +1,10 @@
-const logomaker = (prefix, botName, ownerName) => {
+const logomaker = (prefix, GRINGO-BOT, GRINGO) => {
         return `
-「 *${botName}* 」
+「 *${GRINGO-BOT}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creato {GRINGO}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
