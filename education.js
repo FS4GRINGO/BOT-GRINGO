@@ -1,10 +1,10 @@
-const education = (prefix, botName, ownerName) => {
+const education = (prefix, GRINGO-BOT, Gringo) => {
 	return `
-「 *${botName}* 」
+「 *${GRINGO-BOT}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerName}
+  ❏ Creator: ${GRINGO}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
