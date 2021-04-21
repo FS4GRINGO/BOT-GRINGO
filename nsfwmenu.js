@@ -1,6 +1,6 @@
 const nsfwmenu = (prefix, pushname) => {
-    return `Oiin resumindo aqui e o menu NSFW
-    ◪ *NSFW*
+    return `Oiin resumindo aqui e o menu GRINGO
+    ◪ *GRINGO*
   │
   ├─ ❏ ${prefix}nsfwbobs
   ├─ ❏ ${prefix}randomhentaio
