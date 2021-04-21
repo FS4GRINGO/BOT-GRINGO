@@ -1,10 +1,10 @@
-const fun = (prefix, ownerBot, botName) => {
+const fun = (prefix, Gringo, GRINGO-BOT) => {
         return `
-「 *${botName}* 」
+「 *${GRINGO-BOT}* 」
 
 ◪ *INFO*
   ❏ Prefix: 「  ${prefix}  」
-  ❏ Creator: ${ownerBot}
+  ❏ Creator: ${GRINGO}
 ◪ *ABOUT*
   │
   ├─ ❏ ${prefix}info
